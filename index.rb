@@ -9,7 +9,6 @@ def sandwich_request(ingredients, order)
   ingredients[3]
   ingredients[1][2]
   ingredients[0][1]
-
 end
 
 # example city_info hash
