@@ -7,8 +7,8 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  ingredients[2][0, 1, 2]
-
+  ingredients[3][0, 1, 2]
+  ingredients[2][]
 
 end
 
