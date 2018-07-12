@@ -39,6 +39,6 @@ def city_populations(cities)
   :chicago => {
     :mayor => "Eric Garcetti",
     :population => 8337000,
-    :website =>
+    :website => "http://www.miamigov.com"
   }
 end
